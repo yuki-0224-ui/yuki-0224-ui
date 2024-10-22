@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**yuki-0224-ui/yuki-0224-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/yuki-0224-ui">
+    <img height="20" src="https://komarev.com/ghpvc/?username=yuki-0224-ui" />
+  </a>
+  <a href="https://github.com/yuki-0224-ui">
+    <img height="20" src="https://img.shields.io/github/followers/yuki-0224-ui?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/yuki0224_1">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yuki0224_1/posts.svg" />
+  </a>
+  <a href="http://qiita.com/yuki0224_1">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yuki0224_1/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/yuki0224_1">
+    <img height="20" src="https://badgen.org/img/zenn/yuki0224_1/articles?style=plastic" />
+  </a>
+</p>
