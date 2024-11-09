@@ -11,7 +11,7 @@
   <a href="http://qiita.com/yuki0224_1">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuki0224_1/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/yuki0224_1">
+  <a href="https://zenn.dev/r2i5w">
     <img height="20" src="https://badgen.org/img/zenn/r2i5w/articles?style=plastic" />
   </a>
 </p>
