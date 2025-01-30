@@ -17,14 +17,4 @@
 </p>
 
 
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuki-0224-ui&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuki-0224-ui&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuki-0224-ui&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuki-0224-ui&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuki-0224-ui&theme=gruvbox&utcOffset=9)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=yuki-0224-ui&theme=gruvbox)
-
 ![](https://raw.githubusercontent.com/yuki-0224-ui/yuki-0224-ui/output/github-contribution-grid-snake.svg)
